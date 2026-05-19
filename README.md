@@ -14,4 +14,4 @@
 | 序号 | 日期 | 主题 | 文件 |
 |---|---|---|---|
 | 001 | 2026-05-18 | Linux / Bash：用命令行完成文件巡检 | [001-linux-bash-file-inspection/lesson.md](001-linux-bash-file-inspection/lesson.md) |
-
+| 002 | 2026-05-19 | Git：看懂变更并做一次干净提交 | [002-git-status-commit-workflow/lesson.md](002-git-status-commit-workflow/lesson.md) |
