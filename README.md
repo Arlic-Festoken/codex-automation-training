@@ -15,3 +15,4 @@
 |---|---|---|---|
 | 001 | 2026-05-18 | Linux / Bash：用命令行完成文件巡检 | [001-linux-bash-file-inspection/lesson.md](001-linux-bash-file-inspection/lesson.md) |
 | 002 | 2026-05-19 | Git：看懂变更并做一次干净提交 | [002-git-status-commit-workflow/lesson.md](002-git-status-commit-workflow/lesson.md) |
+| 003 | 2026-05-31 | Python 脚本：把日志整理成一份小报告 | [003-python-log-summary/lesson.md](003-python-log-summary/lesson.md) |

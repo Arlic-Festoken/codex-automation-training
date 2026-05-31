@@ -1,0 +1,12 @@
+2026-05-31T09:00:01 INFO /api/health 200 12ms service=backend
+2026-05-31T09:00:04 INFO /api/login 200 83ms user=alice
+2026-05-31T09:00:08 WARN /api/orders 429 101ms user=bob reason=rate_limit
+2026-05-31T09:00:12 INFO /api/orders 200 156ms user=alice
+2026-05-31T09:00:18 ERROR /api/payments 500 342ms user=alice trace=pay-1001
+2026-05-31T09:00:21 INFO /api/products 200 44ms user=guest
+2026-05-31T09:00:27 ERROR /api/orders 503 288ms user=bob trace=ord-2099
+2026-05-31T09:00:31 WARN /api/login 401 39ms user=unknown reason=bad_password
+2026-05-31T09:00:36 INFO /api/orders 200 149ms user=carol
+2026-05-31T09:00:42 ERROR /api/payments 502 410ms user=carol trace=pay-1002
+2026-05-31T09:00:49 INFO /api/health 200 11ms service=backend
+2026-05-31T09:00:55 WARN /api/products 304 18ms user=guest reason=cache_miss
