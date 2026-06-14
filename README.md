@@ -17,3 +17,4 @@
 | 002 | 2026-05-19 | Git：看懂变更并做一次干净提交 | [002-git-status-commit-workflow/lesson.md](002-git-status-commit-workflow/lesson.md) |
 | 003 | 2026-05-31 | Python 脚本：把日志整理成一份小报告 | [003-python-log-summary/lesson.md](003-python-log-summary/lesson.md) |
 | 004 | 2026-06-07 | 正则表达式：从混杂日志里提取可用信息 | [004-regex-log-extraction/lesson.md](004-regex-log-extraction/lesson.md) |
+| 005 | 2026-06-14 | HTTP / API：用 curl 看懂一次接口请求 | [005-http-api-health-check/lesson.md](005-http-api-health-check/lesson.md) |
