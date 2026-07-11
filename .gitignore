@@ -2,3 +2,5 @@
 /git-data/
 /git-blocked-old/
 write-test.tmp
+__pycache__/
+*.py[cod]
