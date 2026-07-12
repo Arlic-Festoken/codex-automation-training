@@ -19,3 +19,4 @@
 | 004 | 2026-06-07 | 正则表达式：从混杂日志里提取可用信息 | [004-regex-log-extraction/lesson.md](004-regex-log-extraction/lesson.md) |
 | 005 | 2026-06-14 | HTTP / API：用 curl 看懂一次接口请求 | [005-http-api-health-check/lesson.md](005-http-api-health-check/lesson.md) |
 | 006 | 2026-07-11 | Docker 基础：把健康检查 API 装进可搬运的盒子 | [006-dockerize-health-api/lesson.md](006-dockerize-health-api/lesson.md) |
+| 007 | 2026-07-12 | VS Code / SSH：安全地准备远程开发连接 | [007-vscode-ssh-remote-basics/lesson.md](007-vscode-ssh-remote-basics/lesson.md) |

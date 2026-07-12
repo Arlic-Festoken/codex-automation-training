@@ -1,0 +1,7 @@
+# 教学用示例：203.0.113.10 是文档保留地址，不能用于真实连接。
+Host dev-lab
+    HostName 203.0.113.10
+    User ubuntu
+    Port 22
+    IdentityFile ~/.ssh/id_ed25519
+    IdentitiesOnly yes
