@@ -20,3 +20,4 @@
 | 005 | 2026-06-14 | HTTP / API：用 curl 看懂一次接口请求 | [005-http-api-health-check/lesson.md](005-http-api-health-check/lesson.md) |
 | 006 | 2026-07-11 | Docker 基础：把健康检查 API 装进可搬运的盒子 | [006-dockerize-health-api/lesson.md](006-dockerize-health-api/lesson.md) |
 | 007 | 2026-07-12 | VS Code / SSH：安全地准备远程开发连接 | [007-vscode-ssh-remote-basics/lesson.md](007-vscode-ssh-remote-basics/lesson.md) |
+| 008 | 2026-07-20 | 数据处理：把 API 订单 JSON 变成 CSV 和 Markdown 报告 | [008-data-processing-order-report/lesson.md](008-data-processing-order-report/lesson.md) |

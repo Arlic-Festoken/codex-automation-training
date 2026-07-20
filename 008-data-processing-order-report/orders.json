@@ -1,0 +1,8 @@
+[
+  {"order_id": "A1001", "customer": "Lina", "status": "paid", "amount": 128.50, "created_at": "2026-07-18T09:12:00"},
+  {"order_id": "A1002", "customer": "Ming", "status": "pending", "amount": 89.00, "created_at": "2026-07-18T10:30:00"},
+  {"order_id": "A1003", "customer": "Lina", "status": "paid", "amount": 260.00, "created_at": "2026-07-19T08:45:00"},
+  {"order_id": "A1004", "customer": "Wei", "status": "cancelled", "amount": 45.90, "created_at": "2026-07-19T11:20:00"},
+  {"order_id": "A1005", "customer": "Ming", "status": "paid", "amount": 150.00, "created_at": "2026-07-20T14:05:00"},
+  {"order_id": "A1006", "customer": "Chen", "status": "paid", "amount": 75.50, "created_at": "2026-07-20T15:40:00"}
+]
