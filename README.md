@@ -21,3 +21,4 @@
 | 006 | 2026-07-11 | Docker 基础：把健康检查 API 装进可搬运的盒子 | [006-dockerize-health-api/lesson.md](006-dockerize-health-api/lesson.md) |
 | 007 | 2026-07-12 | VS Code / SSH：安全地准备远程开发连接 | [007-vscode-ssh-remote-basics/lesson.md](007-vscode-ssh-remote-basics/lesson.md) |
 | 008 | 2026-07-20 | 数据处理：把 API 订单 JSON 变成 CSV 和 Markdown 报告 | [008-data-processing-order-report/lesson.md](008-data-processing-order-report/lesson.md) |
+| 009 | 2026-07-26 | Linux / Bash：用脚本巡检一份可交付报告 | [009-bash-report-inspection/lesson.md](009-bash-report-inspection/lesson.md) |
