@@ -22,3 +22,4 @@
 | 007 | 2026-07-12 | VS Code / SSH：安全地准备远程开发连接 | [007-vscode-ssh-remote-basics/lesson.md](007-vscode-ssh-remote-basics/lesson.md) |
 | 008 | 2026-07-20 | 数据处理：把 API 订单 JSON 变成 CSV 和 Markdown 报告 | [008-data-processing-order-report/lesson.md](008-data-processing-order-report/lesson.md) |
 | 009 | 2026-07-26 | Linux / Bash：用脚本巡检一份可交付报告 | [009-bash-report-inspection/lesson.md](009-bash-report-inspection/lesson.md) |
+| 010 | 2026-08-03 | Git：审阅一次报告改动，再做一个干净提交 | [010-git-report-change-review/lesson.md](010-git-report-change-review/lesson.md) |
