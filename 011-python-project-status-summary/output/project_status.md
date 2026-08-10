@@ -7,9 +7,8 @@
 ## Git 状态
 
 - 当前分支：main
-- 生成时最近提交：d2a8227 Add Python project status summary
-- 未提交改动： M 011-python-project-status-summary/build_project_status.py
- M 011-python-project-status-summary/lesson.md
+- 生成时最近提交：652866f Add Python project status summary
+- 未提交改动：无
 
 ## 学习复盘
 
