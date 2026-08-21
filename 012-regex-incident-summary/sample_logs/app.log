@@ -1,0 +1,6 @@
+2026-08-21T09:00:12Z INFO request_id=a1b2 method=GET path=/health status=200 duration_ms=8
+2026-08-21T09:01:03Z WARN request_id=c3d4 method=GET path=/api/orders status=429 duration_ms=31 reason=rate_limited
+2026-08-21T09:02:45Z ERROR request_id=e5f6 method=POST path=/api/orders status=500 duration_ms=1423 reason=database_timeout
+2026-08-21T09:03:07Z INFO request_id=g7h8 method=GET path=/api/orders status=200 duration_ms=62
+2026-08-21T09:04:18Z ERROR request_id=i9j0 method=POST path=/api/orders status=503 duration_ms=911 reason=upstream_unavailable
+2026-08-21T09:05:22Z INFO request_id=k1l2 method=GET path=/docs status=200 duration_ms=14
