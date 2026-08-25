@@ -25,3 +25,4 @@
 | 010 | 2026-08-03 | Git：审阅一次报告改动，再做一个干净提交 | [010-git-report-change-review/lesson.md](010-git-report-change-review/lesson.md) |
 | 011 | 2026-08-10 | Python 脚本：把订单报告、Git 状态和复盘汇总成项目状态摘要 | [011-python-project-status-summary/lesson.md](011-python-project-status-summary/lesson.md) |
 | 012 | 2026-08-21 | 正则表达式：从应用日志提取异常信号并生成摘要 | [012-regex-incident-summary/lesson.md](012-regex-incident-summary/lesson.md) |
+| 013 | 2026-08-24 | HTTP / API：用健康检查确认日志里的异常 | [013-http-api-incident-check/lesson.md](013-http-api-incident-check/lesson.md) |
