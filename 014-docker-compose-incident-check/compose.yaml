@@ -1,0 +1,25 @@
+services:
+  incident-api:
+    build: .
+    ports:
+      - "8014:8014"
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - "from urllib.request import urlopen; urlopen('http://127.0.0.1:8014/health')"
+      interval: 2s
+      timeout: 2s
+      retries: 5
+
+  checker:
+    build: .
+    command: ["python", "check_incident_api.py"]
+    environment:
+      API_BASE_URL: http://incident-api:8014
+    depends_on:
+      incident-api:
+        condition: service_healthy
+    volumes:
+      - ./output:/app/output
