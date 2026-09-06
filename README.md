@@ -27,3 +27,4 @@
 | 012 | 2026-08-21 | 正则表达式：从应用日志提取异常信号并生成摘要 | [012-regex-incident-summary/lesson.md](012-regex-incident-summary/lesson.md) |
 | 013 | 2026-08-24 | HTTP / API：用健康检查确认日志里的异常 | [013-http-api-incident-check/lesson.md](013-http-api-incident-check/lesson.md) |
 | 014 | 2026-08-30 | Docker 基础：用 Compose 复现一次 API 故障检查 | [014-docker-compose-incident-check/lesson.md](014-docker-compose-incident-check/lesson.md) |
+| 015 | 2026-09-06 | VS Code / SSH：安全地远程打开 Compose 故障检查项目 | [015-vscode-ssh-remote-compose-workbench/lesson.md](015-vscode-ssh-remote-compose-workbench/lesson.md) |

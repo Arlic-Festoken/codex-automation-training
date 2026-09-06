@@ -1,0 +1,7 @@
+# 仅用于离线学习；203.0.113.10 是文档保留地址，不是真实服务器。
+Host workbench-training
+  HostName 203.0.113.10
+  User devuser
+  Port 2222
+  IdentityFile ~/.ssh/id_ed25519
+  IdentitiesOnly yes
