@@ -1,0 +1,5 @@
+﻿environment,checked_at,name,status_code,duration_ms,result,message,url
+local-compose,2026-09-14T09:20:00+08:00,health,200,29.3,正常,ok,http://127.0.0.1:8014/health
+local-compose,2026-09-14T09:20:00+08:00,orders,503,15.5,需要处理,upstream unavailable,http://127.0.0.1:8014/api/orders
+staging,2026-09-14T09:25:00+08:00,health,200,41.8,正常,ok,https://staging.example.test/health
+staging,2026-09-14T09:25:00+08:00,orders,200,184.6,正常,ok,https://staging.example.test/api/orders

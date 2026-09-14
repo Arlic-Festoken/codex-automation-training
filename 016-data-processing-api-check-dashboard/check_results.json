@@ -1,0 +1,38 @@
+[
+  {
+    "environment": "local-compose",
+    "checked_at": "2026-09-14T09:20:00+08:00",
+    "name": "health",
+    "url": "http://127.0.0.1:8014/health",
+    "status_code": 200,
+    "duration_ms": 29.3,
+    "message": "ok"
+  },
+  {
+    "environment": "local-compose",
+    "checked_at": "2026-09-14T09:20:00+08:00",
+    "name": "orders",
+    "url": "http://127.0.0.1:8014/api/orders",
+    "status_code": 503,
+    "duration_ms": 15.5,
+    "message": "upstream unavailable"
+  },
+  {
+    "environment": "staging",
+    "checked_at": "2026-09-14T09:25:00+08:00",
+    "name": "health",
+    "url": "https://staging.example.test/health",
+    "status_code": 200,
+    "duration_ms": 41.8,
+    "message": "ok"
+  },
+  {
+    "environment": "staging",
+    "checked_at": "2026-09-14T09:25:00+08:00",
+    "name": "orders",
+    "url": "https://staging.example.test/api/orders",
+    "status_code": 200,
+    "duration_ms": 184.6,
+    "message": "ok"
+  }
+]
