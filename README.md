@@ -29,3 +29,4 @@
 | 014 | 2026-08-30 | Docker 基础：用 Compose 复现一次 API 故障检查 | [014-docker-compose-incident-check/lesson.md](014-docker-compose-incident-check/lesson.md) |
 | 015 | 2026-09-06 | VS Code / SSH：安全地远程打开 Compose 故障检查项目 | [015-vscode-ssh-remote-compose-workbench/lesson.md](015-vscode-ssh-remote-compose-workbench/lesson.md) |
 | 016 | 2026-09-14 | 数据处理：把 API 检查 JSON 变成 CSV 和 Markdown 对比报告 | [016-data-processing-api-check-dashboard/lesson.md](016-data-processing-api-check-dashboard/lesson.md) |
+| 017 | 2026-09-20 | Linux / Bash：给 API 检查报告加发布前门禁 | [017-bash-release-artifact-gate/lesson.md](017-bash-release-artifact-gate/lesson.md) |
